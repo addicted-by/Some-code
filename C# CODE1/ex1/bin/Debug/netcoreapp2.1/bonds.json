@@ -1,0 +1,400 @@
+﻿[
+  {
+    "Name": "ГТЛК 1P-04",
+    "ISIN": "RU000A0JXPG2",
+    "Currency": "Руб",
+    "Price": 1076.2,
+    "CouponRate": 9.85,
+    "AccumulateCouponIncome": 17.54,
+    "SettlementDate": "2020-06-24T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2032-04-06T00:00:00",
+    "BuyBackDate": "2023-04-18T00:00:00",
+    "Coupons": [
+      {
+        "Date": "2020-07-21T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2020-10-20T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2021-01-19T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2021-04-20T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2021-07-20T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2021-10-19T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2022-01-18T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2022-04-19T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2022-07-19T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2022-10-18T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2023-01-17T00:00:00",
+        "AmountInCurrency": 24.56
+      },
+      {
+        "Date": "2023-04-18T00:00:00",
+        "AmountInCurrency": 24.56
+      }
+    ]
+  },
+  {
+    "Name": "VEB-23 EUR",
+    "ISIN": "XS0893212398",
+    "Currency": "Eur",
+    "Price": 1096.1,
+    "CouponRate": 4.032,
+    "AccumulateCouponIncome": 13.88,
+    "SettlementDate": "2020-06-24T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2023-02-21T00:00:00",
+    "BuyBackDate": null,
+    "Coupons": [
+      {
+        "Date": "2021-02-21T00:00:00",
+        "AmountInCurrency": 40.32
+      },
+      {
+        "Date": "2022-02-21T00:00:00",
+        "AmountInCurrency": 40.32
+      },
+      {
+        "Date": "2023-02-21T00:00:00",
+        "AmountInCurrency": 40.32
+      }
+    ]
+  },
+  {
+    "Name": "ОФЗ 26224",
+    "ISIN": "RU000A0ZYUA9",
+    "Currency": "Rub",
+    "Price": 1104.1,
+    "CouponRate": 6.9,
+    "AccumulateCouponIncome": 4.35,
+    "SettlementDate": "2020-06-24T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2029-05-23T00:00:00",
+    "BuyBackDate": null,
+    "Coupons": [
+      {
+        "Date": "2020-12-02T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2021-06-02T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2021-12-01T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2022-06-01T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2022-11-30T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2023-05-31T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2023-11-29T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2024-05-29T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2024-11-27T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2025-05-28T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2025-11-26T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2026-05-27T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2026-11-25T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2027-05-26T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2027-11-24T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2028-05-24T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2028-11-22T00:00:00",
+        "AmountInCurrency": 34.41
+      },
+      {
+        "Date": "2029-05-23T00:00:00",
+        "AmountInCurrency": 34.41
+      }
+    ]
+  },
+  {
+    "Name": "РЕСОЛизБП4",
+    "ISIN": "RU000A100F95",
+    "Currency": "Rub",
+    "Price": 1025.8,
+    "CouponRate": 9.3,
+    "AccumulateCouponIncome": 4.08,
+    "SettlementDate": "2020-06-24T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2021-06-08T00:00:00",
+    "BuyBackDate": null,
+    "Coupons": [
+      {
+        "Date": "2020-12-08T00:00:00",
+        "AmountInCurrency": 46.37
+      },
+      {
+        "Date": "2021-06-08T00:00:00",
+        "AmountInCurrency": 46.37
+      }
+    ]
+  },
+  {
+    "Name": "БСК 1P1",
+    "ISIN": "RU000A0ZYR18",
+    "Currency": "Rub",
+    "Price": 1038.0,
+    "CouponRate": 8.1,
+    "AccumulateCouponIncome": 12.43,
+    "SettlementDate": "2020-06-25T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2023-01-27T00:00:00",
+    "BuyBackDate": null,
+    "Coupons": [
+      {
+        "Date": "2020-07-31T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2020-10-30T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2021-01-29T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2021-04-30T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2021-07-30T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2021-10-29T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2022-01-28T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2022-04-29T00:00:00",
+        "AmountInCurrency": 20.19
+      },
+      {
+        "Date": "2022-07-29T00:00:00",
+        "AmountInCurrency": 15.15
+      },
+      {
+        "Date": "2022-10-28T00:00:00",
+        "AmountInCurrency": 10.1
+      },
+      {
+        "Date": "2023-01-27T00:00:00",
+        "AmountInCurrency": 5.05
+      }
+    ]
+  },
+  {
+    "Name": "ВТБ Б-1-85",
+    "ISIN": "RU000A101U46",
+    "Currency": "Rub",
+    "Price": 1021.8,
+    "CouponRate": 4.7,
+    "AccumulateCouponIncome": 0.13,
+    "SettlementDate": "2020-06-25T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2021-06-24T00:00:00",
+    "BuyBackDate": "2020-06-24T00:00:00",
+    "Coupons": [
+      {
+        "Date": "2020-12-24T00:00:00",
+        "AmountInCurrency": 23.44
+      },
+      {
+        "Date": "2021-06-24T00:00:00",
+        "AmountInCurrency": 23.44
+      }
+    ]
+  },
+  {
+    "Name": "РЖД 1Р-09R",
+    "ISIN": "RU000A0ZZRY2",
+    "Currency": "Rub",
+    "Price": 1010.0,
+    "CouponRate": 6.37,
+    "AccumulateCouponIncome": 9.77,
+    "SettlementDate": "2020-06-25T00:00:00",
+    "Nominal": 1000.0,
+    "MaturityDate": "2033-10-14T00:00:00",
+    "BuyBackDate": "2020-10-30T00:00:00",
+    "Coupons": [
+      {
+        "Date": "2020-10-30T00:00:00",
+        "AmountInCurrency": 31.76
+      },
+      {
+        "Date": "2021-04-30T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2021-10-29T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2022-04-29T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2022-10-28T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2023-04-28T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2023-10-27T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2024-04-26T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2024-10-25T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2025-04-25T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2025-10-24T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2026-04-24T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2026-10-23T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2027-04-23T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2027-10-22T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2028-04-21T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2028-10-20T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2029-04-20T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2029-10-19T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2030-04-19T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2030-10-18T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2031-04-18T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2031-10-17T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2032-04-16T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2032-10-15T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2033-04-15T00:00:00",
+        "AmountInCurrency": 0.0
+      },
+      {
+        "Date": "2033-10-14T00:00:00",
+        "AmountInCurrency": 0.0
+      }
+    ]
+  }
+]

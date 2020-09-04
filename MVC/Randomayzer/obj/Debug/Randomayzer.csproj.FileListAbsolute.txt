@@ -1,0 +1,12 @@
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\bin\Debug\Randomayzer.exe.config
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\bin\Debug\Randomayzer.exe
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\bin\Debug\Randomayzer.pdb
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.first.resources
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.second.resources
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.third.resources
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.exe
+C:\Users\Кирилл\Desktop\6(MVC)_second_try\Randomayzer\obj\Debug\Randomayzer.pdb
